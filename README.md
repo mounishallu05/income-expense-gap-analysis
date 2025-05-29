@@ -28,5 +28,4 @@ Inflation is eroding the purchasing power of the everyday American. We hypothesi
 pip install -r requirements.txt
 ```
 
-## Project Team
-[Your information here] 
+ 
